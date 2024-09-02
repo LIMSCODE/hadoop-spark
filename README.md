@@ -23,6 +23,13 @@ https://truman.tistory.com/209
 https://hyem207.tistory.com/43#MLLib%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%98%81%ED%99%94%20%EC%B6%94%EC%B2%9C%20%EC%8B%A4%EC%8A%B5-1
 
 
+
+![image](https://github.com/user-attachments/assets/7717fdff-15ce-40fa-a197-57dcfdc6ab2d)
+
+![image](https://github.com/user-attachments/assets/ea9452e7-4006-42a5-b42a-2b3d992398f7)
+
+
+
 hadoop,spark
 ![image](https://github.com/user-attachments/assets/7a6590e0-c372-47a7-ae9e-377b480ea118)
 ![image](https://github.com/user-attachments/assets/bfdd362a-85e3-4c08-8498-f1d9066d5434)
@@ -34,5 +41,5 @@ hadoop,spark
 ![image](https://github.com/user-attachments/assets/2002f450-2cc2-4492-888a-dc4f54aeccba)
 ![image](https://github.com/user-attachments/assets/4b177bea-1a13-49f2-904f-0ebabbc71404)
 ![image](https://github.com/user-attachments/assets/80d346c4-96b5-4e2e-96e3-ef08e79b3126)
-
+ 
  
